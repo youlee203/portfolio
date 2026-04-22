@@ -5,7 +5,7 @@ I'm a data anaytics student and assistant manager with a passion for turning raw
 ## 🗃️ Projects
 
 1. **Hospital Records Analysis (SQL)**
-   - SQL Queries analyzing hospital records
+   - Used Oracle SQL Developer to analyze 3 years of simulated hospital records across 4 relational tables (1,000+ rows). Built an ERD, established primary and foreign key relationships from scratch, and wrote queries to answer operational questions around patient conditions, prescription patterns, doctor workload, discharge rates, and treatment outcomes.
    - [View Repository](https://github.com/annalee-data/hospitalrecords-sql/blob/main/README.md)
   
 3. **Student Performance Dashboard (Power BI)**
